@@ -110,11 +110,11 @@ src/
 
 ### Step 3: Environment Configuration
 Create a .env file in the project root and add the following variables:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-JWT_EXPIRE=7d
-NODE_ENV=development
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret_key
+- JWT_EXPIRE=7d
+- NODE_ENV=development
 
 ### Step 4: Run the Application
 - npm run dev
