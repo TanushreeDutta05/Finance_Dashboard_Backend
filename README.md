@@ -33,7 +33,7 @@ A comprehensive finance dashboard backend system with role-based access control 
 - Search and filtering functionality
 - Soft delete support
 - Rate limiting for API protection
-- API documentation (this README + Postman + Swagger)
+- API documentation (this README + Swagger)
 - Category-based financial insights
 - Monthly trends analysis
 - Recent activity tracking
@@ -41,6 +41,7 @@ A comprehensive finance dashboard backend system with role-based access control 
 
 ## Project Structure
 src/
+
 │── config/        
 │── controllers/   
 │── middlewares/   
