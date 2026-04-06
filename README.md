@@ -41,13 +41,13 @@ A comprehensive finance dashboard backend system with role-based access control 
 
 ## Project Structure
 src/
-│── config/        # Database connection, environment setup
-│── controllers/   # Request handling & business logic
-│── middlewares/   # Auth, RBAC, validation, error handling
-│── models/        # Mongoose schemas
-│── routes/        # API routes
-│── swagger/       # API docs
-│── server.js      # Express app configuration and server bootstrap
+│── config/        
+│── controllers/   
+│── middlewares/   
+│── models/        
+│── routes/        
+│── swagger/       
+│── server.js      
 
 
 ## Authentication Flow
@@ -101,7 +101,7 @@ src/
 - npm or yarn
 
 ### Step 1: Clone the Repository
-- git clone <repository-url>
+- git clone <https://github.com/TanushreeDutta05/Finance_Dashboard_Backend.git>
 - cd finance-dashboard-backend
 
 ### Step 2: Install Dependencies
@@ -175,5 +175,5 @@ NODE_ENV=development
 
 ## Author
 **Tanushree Dutta**
-**Backend Developer Intern Candidate**
+
 
